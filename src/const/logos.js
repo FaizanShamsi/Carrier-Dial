@@ -7,5 +7,5 @@ export const logos = [
   { name: 'TCS', src: '/assets/tcs.png' },
   { name: 'Leopard Courier', src: '/assets/leopard.png' },
   { name: 'Logo', src: '/assets/logo.webp' },
-  // { name: 'favicon', src: '/assets/favicon.ico' },
+  { name: 'favicon', src: '/assets/favicon.ico' },
 ];
