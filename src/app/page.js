@@ -1,4 +1,4 @@
-import InfiniteCarrierDial from '@/components/InfiniteCarrierDial';
+import HomeClient from '@/components/HomeClient';
 
 export default function Home() {
   return (
@@ -16,7 +16,7 @@ export default function Home() {
         </button>
       </div>
 
-      <InfiniteCarrierDial />
+      <HomeClient />
     </main>
   );
 }
